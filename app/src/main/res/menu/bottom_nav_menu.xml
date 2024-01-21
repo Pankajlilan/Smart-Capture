@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_share"
+        android:icon="@drawable/share"
+        android:title="@string/title_share" />
+
+    <item
+        android:id="@+id/navigation_info"
+        android:icon="@drawable/info"
+        android:title="@string/title_info" />
+
+    <item
+        android:id="@+id/navigation_delete"
+        android:icon="@drawable/delete"
+        android:title="@string/title_delete" />
+
+</menu>
