@@ -41,6 +41,10 @@ Smart Capture: Effortlessly organize, categorize, and share your memories! Lever
 - Compatible with devices running on Android API Level 21 and higher.
 - Ensures optimal performance on a range of devices, staying current with the latest Android versions.
 
+## Video Demo
+
+https://github.com/Pankajlilan/Smart-Capture/assets/10745274/8b331f3b-3d42-45d4-924c-e6c95a0b5b08
+
 ## Installation
 ```bash
 git clone https://github.com/Pankajlilan/SmartCapture.git
